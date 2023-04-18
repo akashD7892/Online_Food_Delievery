@@ -1,7 +1,7 @@
 # Online_Food_Delievery
 This is my first web developmetn app in which i have used html css and javascript 
 <br>
-<img src="sc/sc.1.png" width="400px" height="400px" style="vertical-align:middle">
+<img src="sc/sc.1.png" width="400px" height="400px" style="horizontal-align:middle">
 <br>
 Content Page
 <br>
