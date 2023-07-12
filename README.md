@@ -1,5 +1,5 @@
 # Online_Food_Delievery
-This is my first web developmetn app in which i have used html css and javascript.
+This is my first web development app in which I have used html css and javascript.
 In this the header section there are different options like Home, Services, Client etc.
 <br>
 <p align="center" ><img src="sc/sc.1.png" width="400px" height="400px" ></p>
